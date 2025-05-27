@@ -1,0 +1,3 @@
+name = "COD Advance Message"
+type = "checkout_ui"
+extension_points = ["purchase.checkout.block.render"]
